@@ -1,4 +1,4 @@
-odoo.define('pos_delivery.models', function (require) {
+odoo.define('pos_delivery_mode.models', function (require) {
     "use strict";
 
     var models = require('point_of_sale.models');

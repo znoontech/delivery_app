@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "pos_delivery",
+    'name': "pos_delivery_mode",
 
     'summary': """
         Delivery mode options, customer based delivery mode""",
@@ -42,6 +42,7 @@
         'static/src/xml/Screens/ReceiptScreen/OrderReceipt.xml',
         'static/src/xml/Screens/PaymentScreen/PaymentMethodButton.xml'
     ],
+    'images': ['images/main_screenshot.png'],
     # only loaded in demonstration mode
     'demo': [
         # 'demo/demo.xml',

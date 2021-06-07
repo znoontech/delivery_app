@@ -1,4 +1,4 @@
-odoo.define('pos_delivery.ProductScreen', function(require){
+odoo.define('pos_delivery_mode.ProductScreen', function(require){
 	"use strict";
 
 	const Registries = require('point_of_sale.Registries');

@@ -1,4 +1,4 @@
-odoo.define('pos_delivery.DeliveryButton', function(require){
+odoo.define('pos_delivery_mode.DeliveryButton', function(require){
 	"use strict";
 
 	const PosComponent = require('point_of_sale.PosComponent');
